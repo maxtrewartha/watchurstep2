@@ -1,0 +1,7 @@
+name: WatchUrStep2
+version: @version@
+main: xyz.acxd.watchurstep2.Watchurstep2
+api-version: 1.15
+authors: [ Scaffolding ]
+description: Watch Ur Step 2, now with configurable options
+website: https://acxd.xyz
