@@ -8,6 +8,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerMoveEvent;
 import xyz.acxd.watchurstep2.Main;
+
 import java.util.ArrayList;
 
 public class PlayerMove implements Listener {
